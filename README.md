@@ -17,7 +17,7 @@ Finally, the **Portfolio** section provides an overview of my projects, includin
 ### Visual Design
 I tried to make my website's design as **clean**, **modern** and **professional** as possible. I chose a **dark** and **minimalistic** colour palette and made use of **CSS gradients** to give a general shady look.
 
-Regarding the typography, I chose "**Intra**" for its modern *sans-serif* style, and modified its weight along the page depending on the text's importance, to establish a clear visual hierarchy. The overall typographic system helps maintain consistency and coherence throughout the site.
+Regarding the typography, I chose [Inter](https://fonts.google.com/specimen/Inter) for its modern *sans-serif* style, and modified its weight along the page depending on the text's importance, to establish a clear visual hierarchy. The overall typographic system helps maintain consistency and coherence throughout the site.
 
 The page **layout** consists of three main modules, as I specified in the "Information Architecture" part: a sidebar, the main content and the portfolio.
 
@@ -26,4 +26,4 @@ My design choices were inspired by professional platforms such as **LinkedIn** a
 ## Links
 - Figma project: https://www.figma.com/design/dumIJP42pyN6KKYOLEGemb/CV?node-id=0-1&t=8vAQEoumDALy6tQT-1
 - GitHub repository: https://github.com/pguinness/cv
-- Hosted website: https://pguinness.github.io/cv/
+- Hosted website: https://pguinness.github.io/cv
