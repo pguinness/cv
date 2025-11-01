@@ -23,7 +23,7 @@ The page **layout** consists of three main modules, as I specified in the "Infor
 
 My design choices were inspired by professional platforms such as **LinkedIn** and **GitHub**. The Experience and Education sections follow LinkedIn's layout, and the Portfolio section draws from GitHub's project-based design, where I took the colours to represent the programming languages. The rest of the website was designed through my experimentation in **Figma**, where I explored various layouts and visual elements to create **my own distinctive style**. This approach allowed me to combine inspiration from established platforms with a personal touch that reflects both professionalism and individuality.
 
-Additionally, I used only a single [Bootstrap](https://getbootstrap.com/) class, `container`. For optimisation purposes, I chose to include the source code of that specific class directly, rather than importing the entire framework.
+Additionally, I used only a single [Bootstrap](https://getbootstrap.com/) class, `container`, as it provides responsive margins that neatly structure the page's content. For optimisation purposes, I chose to include the source code of that specific class directly, rather than importing the entire framework.
 
 ## Links
 - Figma project: https://www.figma.com/design/dumIJP42pyN6KKYOLEGemb/CV?node-id=0-1&t=8vAQEoumDALy6tQT-1
