@@ -48,11 +48,11 @@ ul {
 }
 
 ul li:not(:last-child) {
-    margin-bottom: 10px;   /* espai entre elements de la llista */
+    margin-bottom: 10px; /* space between items */
 }
 
 img {
-    /* fer que la imatge no sigui seleccionable */
+    /* make the image not selectable */
     user-select: none;
     -moz-user-select: none;
     -webkit-user-drag: none;
@@ -60,7 +60,7 @@ img {
     -ms-user-select: none;
 }
 
-/* container (Bootstrap) */
+/* container (from Bootstrap) */
 
 .container {
     width: 100%;
